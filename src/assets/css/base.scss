@@ -6,9 +6,13 @@
   padding: 0;
 }
 
-$color-high-text: #ff5777;
-$color-background-pink:  #ff8198;
-$color-background-white:#fff;
+// $color-high-text: #ff5777;
+// $color-background-pink:  #ff8198;
+// $color-background-white:#fff;
+$text-color:#fff666;
+$text-fontsize: 14px;
+$bg-color: #fff666;
+
 /*:root -> 获取根元素html*/
 body,
 html {
